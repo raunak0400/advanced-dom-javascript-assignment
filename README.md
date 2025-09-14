@@ -25,6 +25,9 @@ advanced-dom-javascript-assignment/
 │   ├── index.html
 │   ├── style.css
 │   └── script.js
+├── LICENSE
+├── CONTRIBUTING.md
+├── SECURITY.md
 └── README.md
 ```
 
@@ -148,6 +151,12 @@ Data persistence with error handling:
 
 ## 🚀 Getting Started
 
+### Prerequisites
+- A modern web browser (Chrome 60+, Firefox 55+, Safari 12+, Edge 79+)
+- No additional software or build tools required
+
+### Installation
+
 1. **Clone the repository**:
    ```bash
    git clone https://github.com/yourusername/advanced-dom-javascript-assignment.git
@@ -155,10 +164,15 @@ Data persistence with error handling:
    ```
 
 2. **Open the applications**:
-   - For Contact Form: Open `contact-form/index.html` in your browser
-   - For Todo App: Open `todo-app/index.html` in your browser
+   - **Contact Form**: Open `contact-form/index.html` in your browser
+   - **Todo App**: Open `todo-app/index.html` in your browser
 
 3. **No build process required**: These are vanilla HTML, CSS, and JavaScript applications that run directly in the browser.
+
+### Quick Demo
+- Try submitting a contact form with validation
+- Add some todos and test the search/filter functionality
+- Refresh the page to see data persistence in action
 
 ## 🌐 Browser Compatibility
 
@@ -194,11 +208,38 @@ This project is open source and available under the [MIT License](LICENSE).
 
 ## 🤝 Contributing
 
-Contributions, issues, and feature requests are welcome! Feel free to check the issues page.
+We welcome contributions! Please read our [Contributing Guidelines](CONTRIBUTING.md) for details on our code of conduct and the process for submitting pull requests.
 
-## 📞 Contact
+### Quick Start for Contributors
+1. Fork the repository
+2. Create a feature branch (`git checkout -b feature/amazing-feature`)
+3. Commit your changes (`git commit -m 'Add some amazing feature'`)
+4. Push to the branch (`git push origin feature/amazing-feature`)
+5. Open a Pull Request
 
-If you have any questions or suggestions, please feel free to reach out.
+## 🔒 Security
+
+We take security seriously. Please review our [Security Policy](SECURITY.md) for information on how to report security vulnerabilities.
+
+## 📞 Support & Contact
+
+- **Issues**: [GitHub Issues](https://github.com/yourusername/advanced-dom-javascript-assignment/issues)
+- **Discussions**: [GitHub Discussions](https://github.com/yourusername/advanced-dom-javascript-assignment/discussions)
+- **Security**: See [SECURITY.md](SECURITY.md) for security-related concerns
+
+## 📊 Project Status
+
+![GitHub last commit](https://img.shields.io/github/last-commit/yourusername/advanced-dom-javascript-assignment)
+![GitHub issues](https://img.shields.io/github/issues/yourusername/advanced-dom-javascript-assignment)
+![GitHub pull requests](https://img.shields.io/github/issues-pr/yourusername/advanced-dom-javascript-assignment)
+![GitHub license](https://img.shields.io/github/license/yourusername/advanced-dom-javascript-assignment)
+
+## 🏆 Acknowledgments
+
+- Built with vanilla JavaScript, HTML5, and CSS3
+- No external dependencies or frameworks
+- Demonstrates modern web development best practices
+- Educational project for learning DOM manipulation
 
 ---
 
